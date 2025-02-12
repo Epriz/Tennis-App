@@ -1,0 +1,1 @@
+This is the structure of the Tennis App. To open it, open the folder FINAL_CODE and run the script Homepage_tkinter.py. Ensure that the rest of the scripts are in the same folder as the main script (Homepage_tkinter.py).
